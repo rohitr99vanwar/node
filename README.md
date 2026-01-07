@@ -15,7 +15,6 @@ reserves the right to limit or block contributors who repeatedly act in ways
 that discourage, exhaust, or otherwise negatively affect other participants.
 
 **This project has a [Code of Conduct][].**
-
 ## Table of contents
 
 * [Support](#support)
